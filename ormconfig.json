@@ -1,0 +1,9 @@
+{
+"username": "postgres",
+"password": "root",
+"database": "teach_me_today_dev",
+"host": "127.0.0.1",
+"port": 5432,
+"type": "postgres",
+"entities": ["dist/**/*.entity{.ts,.js}"]
+}
